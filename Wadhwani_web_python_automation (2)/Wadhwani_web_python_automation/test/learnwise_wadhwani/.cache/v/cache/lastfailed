@@ -1,0 +1,15 @@
+{
+  "faculty_test_suite.py::test_LWF56": true,
+  "faculty_test_suite.py::test_LWF57": true,
+  "faculty_test_suite.py::test_LWF58": true,
+  "faculty_test_suite.py::test_LWF64": true,
+  "student_test_suite.py::test_LWS12": true,
+  "student_test_suite.py::test_LWS26": true,
+  "student_test_suite.py::test_LWS32": true,
+  "student_test_suite.py::test_LWS34": true,
+  "student_test_suite.py::test_LWS36": true,
+  "student_test_suite.py::test_LWS37": true,
+  "student_test_suite.py::test_LWS38": true,
+  "student_test_suite.py::test_LWS44": true,
+  "student_test_suite.py::test_LWS46": true
+}
